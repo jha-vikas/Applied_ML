@@ -1,3 +1,3 @@
 # Table of Contents
 
-* Python Machine Learning: Contains python implementation of ML algorithms
+* Python_Machine_Learning: Contains python implementation of ML algorithms
