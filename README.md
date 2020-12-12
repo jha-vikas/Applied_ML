@@ -1,3 +1,3 @@
-# Table of Contents
+## Table of Contents
 
-* Python_Machine_Learning: Contains python implementation of ML algorithms
+* Follows mostly the Data Science from Scratch, inspirations from Jeremy Howard's course and some other implementations using basic codes
